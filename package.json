@@ -1,0 +1,11 @@
+{
+    "name": "bot-klokapp",
+    "version": "1.0.0",
+    "type": "module",
+    "dependencies": {
+        "chalk": "^5.4.1",
+        "dotenv": "^16.4.7",
+        "ethers": "^5.7.2",
+        "node-fetch": "^2.6.7"
+    }
+}
